@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to bottom, rgb(98, 0, 255), blue) ;
+    height: 100vh;display: flex; justify-content: center;align-items: center;overflow: hidden;
+    
+}
+form{
+    background-color:transparent;padding: 10px;width: 80%;
+    display: flex; flex-wrap: wrap;gap: 5px;;
+    
+}
+form input{
+    background-color: aqua; border: none;color: black; outline: none; padding: 5px 10px;width: 200px;flex-grow: 1;
+}
+form button{
+    color: rgb(0, 0, 0); border: none; background-color: aliceblue; cursor: pointer;flex-grow: 1; outline: none;
+    flex-basis: 30px;
+}
