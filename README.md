@@ -18,12 +18,8 @@ I build scalable, high-performance applications with a focus on clean code and b
 - **Database:** MongoDB, Mongoose  
 - **API Development:** RESTful APIs, Authentication (JWT, OAuth)  
 
-### 🔹 Tools & DevOps  
-- Git, Docker, CI/CD, Postman  
 
----
 
 ## 📫 Contact Me  
-- **LinkedIn:** [linkedin.com/in/omar-assem](#)  
-- **GitHub:** [github.com/Omar-Assem](#)  
-- **Email:** omar.assem@example.com  
+- 
+- **Email:** omar11assem@gmail.com  
